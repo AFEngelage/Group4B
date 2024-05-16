@@ -2,6 +2,8 @@
 
 python -m venv venv_case_project
 
-.\venv\Scripts\activate
+WINDOWS: 	.\venv_case_project\Scripts\activate 
+MAC: 		source venv_case_project/bin/activate
+
 
 pip install -r requirements.txt
