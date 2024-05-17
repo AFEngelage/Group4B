@@ -6,11 +6,12 @@ scipy==1.13.0
 scikit-learn==1.4.2
 matplotlib==3.8.4
 seaborn==0.12.2
-altair==5.1.1
+altair==5.3.0
 plotly==5.16.1
 pyarrow==15.0.1
 requests
 vega @ git+https://github.com/vega/ipyvega/@master
+vegafusion
 
 # Auto Code formatter
 black==24.2.0
