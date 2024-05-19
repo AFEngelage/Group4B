@@ -1,0 +1,9 @@
+# Create virtual environment and install requirements
+
+python -m venv venv_case_project
+
+WINDOWS: 	.\venv_case_project\Scripts\activate 
+MAC: 		source venv_case_project/bin/activate
+
+
+pip install -r requirements.txt
