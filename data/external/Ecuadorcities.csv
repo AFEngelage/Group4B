@@ -1,0 +1,52 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Guayaquil,-2.1900,-79.8875,Ecuador,EC,Guayas,admin,2650288,2650288
+Quito,-0.2200,-78.5125,Ecuador,EC,Pichincha,primary,1763275,1763275
+Cuenca,-2.8974,-79.0045,Ecuador,EC,Azuay,admin,361524,361524
+Santo Domingo de los Colorados,-0.2542,-79.1719,Ecuador,EC,Santo Domingo de los Tsáchilas,admin,334826,334826
+Eloy Alfaro,-2.1733,-79.8311,Ecuador,EC,Guayas,,295211,295211
+Machala,-3.2667,-79.9667,Ecuador,EC,El Oro,admin,288072,288072
+Manta,-0.9500,-80.7162,Ecuador,EC,Manabí,,258697,258697
+Portoviejo,-1.0561,-80.4553,Ecuador,EC,Manabí,admin,244129,244129
+Loja,-3.9833,-79.2000,Ecuador,EC,Loja,admin,203496,203496
+Quevedo,-1.0333,-79.4500,Ecuador,EC,Los Ríos,,177792,177792
+Ambato,-1.2417,-78.6197,Ecuador,EC,Tungurahua,admin,177316,177316
+Riobamba,-1.6731,-78.6483,Ecuador,EC,Chimborazo,admin,177213,177213
+Daule,-1.8667,-79.9833,Ecuador,EC,Guayas,,161498,161498
+Milagro,-2.1347,-79.5872,Ecuador,EC,Guayas,,159970,159970
+Ibarra,0.3627,-78.1307,Ecuador,EC,Imbabura,admin,157941,157941
+Esmeraldas,0.9667,-79.6528,Ecuador,EC,Esmeraldas,admin,155487,155487
+La Libertad,-2.2333,-80.9000,Ecuador,EC,Guayas,,112154,112154
+Babahoyo,-1.8167,-79.5167,Ecuador,EC,Los Ríos,admin,98251,98251
+Sangolquí,-0.3344,-78.4475,Ecuador,EC,Pichincha,,96647,96647
+Latacunga,-0.9319,-78.6161,Ecuador,EC,Cotopaxi,admin,77267,77267
+Pasaje,-3.3269,-79.8049,Ecuador,EC,El Oro,,60147,60147
+Santa Rosa,-3.4522,-79.9617,Ecuador,EC,El Oro,,56842,56842
+Tulcán,0.8117,-77.7186,Ecuador,EC,Carchi,admin,56719,56719
+Huaquillas,-3.4814,-80.2432,Ecuador,EC,El Oro,,56021,56021
+Nueva Loja,0.0847,-76.8828,Ecuador,EC,Sucumbíos,admin,55627,55627
+Santa Elena,-2.2267,-80.8583,Ecuador,EC,Santa Elena,admin,54565,54565
+Puerto Francisco de Orellana,-0.4625,-76.9842,Ecuador,EC,Orellana,admin,51281,51281
+Otavalo,0.2303,-78.2625,Ecuador,EC,Imbabura,,41718,41718
+La Troncal,-2.4000,-79.3300,Ecuador,EC,Cañar,,39600,39600
+Azogues,-2.7333,-78.8333,Ecuador,EC,Cañar,admin,35763,35763
+Salinas,-2.2167,-80.9501,Ecuador,EC,Guayas,,35066,35066
+Puyo,-1.4861,-78.0028,Ecuador,EC,Pastaza,admin,33325,33325
+Guaranda,-1.6000,-79.0000,Ecuador,EC,Bolívar,admin,30755,30755
+Tena,-0.9890,-77.8159,Ecuador,EC,Napo,admin,29724,29724
+Atuntaqui,0.3317,-78.2189,Ecuador,EC,Imbabura,,25115,25115
+Macas,-2.3667,-78.1333,Ecuador,EC,Morona-Santiago,admin,22398,22398
+Valle,-2.9500,-78.9833,Ecuador,EC,Azuay,,18692,18692
+Zamora,-4.0692,-78.9567,Ecuador,EC,Zamora-Chinchipe,admin,17584,17584
+San Antonio de Ibarra,0.3627,-78.1307,Ecuador,EC,Imbabura,,17500,17500
+Puerto Ayora,-0.7500,-90.3167,Ecuador,EC,Galápagos,,12696,12696
+Sinincay,-2.8333,-79.0000,Ecuador,EC,Azuay,,12650,12650
+Pelileo,-1.3306,-78.5428,Ecuador,EC,Tungurahua,,11403,11403
+Zaruma,-3.6833,-79.6000,Ecuador,EC,El Oro,,10005,10005
+Saquisilí,-0.8300,-78.6700,Ecuador,EC,Cotopaxi,,9883,9883
+Puerto Baquerizo Moreno,-0.9025,-89.6092,Ecuador,EC,Galápagos,admin,7290,7290
+Chordeleg,-2.9333,-78.7667,Ecuador,EC,Azuay,,6787,6787
+Llacao,-2.8378,-78.9423,Ecuador,EC,Azuay,,4501,4501
+Cevallos,-1.3500,-78.6167,Ecuador,EC,Tungurahua,,3754,3754
+Cayambe, 0.04084, -78.14524, Ecuador,EC,Pichincha,,,
+Libertad, -2.2333, -80.91039, Ecuador,EC,,,,
+Playas, -2.63199, -80.38808, Ecuador, EC,,,,
